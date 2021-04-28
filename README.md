@@ -3,17 +3,17 @@
 
 ## 금융통계
 중간 : KOSPI 증권 포트폴리오 수익률 모형 적합, 진단, 최적의 모형 선택 (GARCH, GJR-GARCH, E-GARCH)<br> 
-기말 : VaR Estimation & Backtesting
+기말 : VaR Estimation & Backtesting<br>
 (python)
 
 ## 다변량통계학
-스타벅스 매장 입점 행정동 판별 및 분류
+스타벅스 매장 입점 행정동 판별 및 분류<br>
 (SAS)
 
 ## 캡스톤디자인
-따릉이 신규 거치대 이용량 예측
+따릉이 신규 거치대 이용량 예측<br>
 (R, QGIS)
 
 ## 회귀분석
-로지스틱 회귀모형을 이용한 심장병 발생확률 분석
+로지스틱 회귀모형을 이용한 심장병 발생확률 분석<br>
 (SAS)
